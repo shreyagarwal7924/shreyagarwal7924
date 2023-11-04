@@ -1,1 +1,1 @@
-SHREY AGARWAL | shreyagarwal7924@gmail.com| Bishop Cotton School | Northeastern University
+SHREY AGARWAL | Computer Science and Business Administration | 2027
