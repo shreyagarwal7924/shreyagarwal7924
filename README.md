@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on the medicine-sales-tracker
+- 🔭 I’m currently working on a mobile application
 - 🌱 I’m currently learning IOS Development
 - 👯 I’m looking to collaborate on a Full Stack project
 - 📫 How to reach me: agarwal.shrey@northeastern.edu
