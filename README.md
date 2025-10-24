@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://shreyagarwal7.com)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agarwal.shrey@northeastern.edu)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shreyagarwal7924&theme=radical)](https://git.io/streak-stats)
 
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/shreyagarwal_7?theme=dark&font=Source%20Code%20Pro) -->
 
