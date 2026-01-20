@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 
 ### 🏆 Achievements
+-  2nd Place - NexHacks Carnegie Mellon University (LeanMCP Track)
 - 🥇 Winner of HackBeanpot 2025 (Social Impact Award for Memora)  
 - 🚀 Built a Machine Learning model that predicts Federal Funds Rate
 ### Fun Facts
