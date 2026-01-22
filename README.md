@@ -4,21 +4,28 @@
 Here are some ideas to get you started:
 -->
 ### Hi there 👋, I’m Shrey!
-🚀 CS + Business student @ Northeastern | 💻 Software Developer | ⚡ Exploring the intersection of tech & business
-- 🔭 I’m currently working as a Software Developer Co-op @ Northeastern University  
-- 🌱 Currently exploring Machine Learning, Data Engineering, and scalable Backend Systems  
-- 👯 Looking for Summer 2026 Internships
-- 📈 Interested in Startups, Problem-Solving, FinTech, and Product-driven Engineering  
+🚀 CS + Business student @ Northeastern | 💻 Software Developer | ⚡ Aspiring Quant
+- 🔭 I recently worked as a Software Developer Co-op @ Northeastern University 
+- 🌱 Currently exploring Quant
+- 👯 Looking for Summer 2026 Internship or Fall 2026 Co-op
+- 📈 Passionate about startups, financial modeling, algorithmic trading, and data-driven decision-making
 - 📫 How to reach me: agarwal.shrey@northeastern.edu
 - 😄 Pronouns: he/him
 
 ### 🏆 Achievements
--  2nd Place - NexHacks Carnegie Mellon University (LeanMCP Track)
+-  2nd Place – NexHacks @ Carnegie Mellon University (LeanMCP Track)
 - 🥇 Winner of HackBeanpot 2025 (Social Impact Award for Memora)  
 - 🚀 Built a Machine Learning model that predicts Federal Funds Rate
+
+### ⚙️ Technical Focus
+- Quantitative modeling, time-series forecasting, and data visualization
+- Backtesting strategies, financial APIs, and portfolio optimization
+- Building scalable data pipelines for trading and analytics platforms
+
 ### Fun Facts
 - I rode the fastest roller coaster in the world 🎢  
-- Big fan of soccer ⚽ and fitness 💪 
+- Big fan of soccer ⚽ and fitness 💪
+- I can bench 200 lbs
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -28,11 +35,11 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### 🎯 2025 Goals
+### 🎯 2026 Goals
+- Explore startup ideas in FinTech & AI
 - Solve 300+ LeetCode problems  
 - Contribute to an open-source project  
 - Build & deploy a side project with 100+ users  
-- Explore startup ideas in FinTech & AI
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyagarwal7924)  
