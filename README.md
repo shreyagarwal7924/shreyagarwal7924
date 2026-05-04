@@ -7,19 +7,20 @@ Here are some ideas to get you started:
 🚀 CS + Business student @ Northeastern | 💻 Software Developer | ⚡ Aspiring Quant
 - 🔭 I recently worked as a Software Developer Co-op @ Northeastern University 
 - 🌱 Currently exploring Quant
-- 👯 Looking for Summer 2026 Internship or Fall 2026 Co-op
-- 📈 Passionate about startups, financial modeling, algorithmic trading, and data-driven decision-making
+- 👯 Looking for Early Career Full-time opportunities
+- 📈 Passionate about quantitative finance, financial engineering, algorithmic trading, and data-driven analysis 
 - 📫 How to reach me: agarwal.shrey@northeastern.edu
 - 😄 Pronouns: he/him
 
 ### 🏆 Achievements
+-  4th Place - Finalist Texas Energy Trading Competition (50+ teams)
 -  2nd Place – NexHacks @ Carnegie Mellon University (LeanMCP Track)
-- 🥇 Winner of HackBeanpot 2025 (Social Impact Award for Memora)  
+- 🥇 Winner of HackBeanpot 2025 (Social Impact Award for Memora)
 - 🚀 Built a Machine Learning model that predicts Federal Funds Rate
 
 ### ⚙️ Technical Focus
 - Quantitative modeling, time-series forecasting, and data visualization
-- Backtesting strategies, financial APIs, and portfolio optimization
+- Backtesting strategies, portfolio optimization
 - Building scalable data pipelines for trading and analytics platforms
 
 ### Fun Facts
@@ -35,18 +36,12 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### 🎯 2026 Goals
-- Explore startup ideas in FinTech & AI
-- Solve 300+ LeetCode problems  
-- Contribute to an open-source project  
-- Build & deploy a side project with 100+ users  
-
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyagarwal7924)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://shreyagarwal7.com)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agarwal.shrey@northeastern.edu)  
 
 
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/shreyagarwal_7?theme=dark&font=Source%20Code%20Pro) -->
+![LeetCode Stats](https://leetcard.jacoblin.cool/shreyagarwal_7?theme=dark&font=Source%20Code%20Pro)
 
 
