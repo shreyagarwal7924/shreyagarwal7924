@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋, I’m Shrey!
 🚀 CS + Finance student @ Northeastern | ⚡ Aspiring Quant
-- 👨🏻‍💼 Incoming Investment Platform Technology Co-op @ Wellington Management
+- 👨🏻‍💼 Investment Platform Technology Co-op @ Wellington Management
 - 🌱 Currently exploring Mathematics, Quant Finance, Equities Trading, Commodities Trading & Software Development
 - 👯 Exploring 2027 early-career opportunities in Quantitative Finance, Trading and Software Engineering
 - 📈 Passionate about Quantitative finance, Financial engineering, Algorithmic trading, and Data-driven analysis 
